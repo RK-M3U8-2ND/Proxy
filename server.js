@@ -6,8 +6,7 @@ const os = require('os');
 const https = require('https');
 const http = require('http');
 const { URL } = require('url');
-const xml2js = require('xml2js'); // npm install xml2js
-const mime = require('mime-types'); // npm install mime-types
+// npm install mime-types
 
 // -------------------------------------------------------------------
 // Configuration
